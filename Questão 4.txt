@@ -1,0 +1,5 @@
+Eu escolheria dois interruptores aleatórios, como por exemplo o 2 e o 3. Eu ligaria o 2 por um tempo, desligaria o 2 e ligaria o 3. Então eu iria em uma sala qualquer, como a 2.
+Se ela estivesse desligada e fria, então eu saberia que não seria o interruptor 2, pois ele foi acionado há pouco tempo então a lâmpada deveria estar morna, e nem o 3, pois ele está ligado.
+Logo, eu saberia que o único que sobra é o interruptor 1 para a sala 2. Depois eu iria em outra sala, como a 3, e faria a verificação. Se ela estiver ligada, eu sei que é o interruptor 3, pois
+ele está ligado. Se estivesse desligado e quente, eu saberia que era o interruptor 2. Em qualquer uma dessas hipóteses, iria sobra apenas um interruptor pra sala 1, e assim eu saberia qual
+interruptor controla cada sala.
